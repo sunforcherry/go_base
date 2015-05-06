@@ -1,0 +1,27 @@
+2015/05/06 17:07:07 goroutine.go:49: [info] come here 
+2015/05/06 17:07:07 goroutine.go:26: [info] come here run 
+2015/05/06 17:07:07 goroutine.go:32: [info] hello world 
+2015/05/06 17:07:07 goroutine.go:12: [info] come here updateWhiteList 
+2015/05/06 17:07:07 goroutine.go:13: [info] updateWhiteList 
+2015/05/06 17:07:12 goroutine.go:12: [info] come here updateWhiteList 
+2015/05/06 17:07:12 goroutine.go:13: [info] updateWhiteList 
+2015/05/06 17:07:17 goroutine.go:36: [info] it GuidCh's channel signal 
+2015/05/06 17:07:21 goroutine.go:36: [info] it GuidCh's channel signal 
+2015/05/06 17:07:25 goroutine.go:36: [info] it GuidCh's channel signal 
+2015/05/06 17:07:29 goroutine.go:36: [info] it GuidCh's channel signal 
+2015/05/06 17:07:33 goroutine.go:12: [info] come here updateWhiteList 
+2015/05/06 17:07:33 goroutine.go:13: [info] updateWhiteList 
+2015/05/06 17:07:38 goroutine.go:12: [info] come here updateWhiteList 
+2015/05/06 17:07:38 goroutine.go:13: [info] updateWhiteList 
+2015/05/06 17:07:43 goroutine.go:36: [info] it GuidCh's channel signal 
+2015/05/06 17:07:47 goroutine.go:36: [info] it GuidCh's channel signal 
+2015/05/06 17:07:51 goroutine.go:12: [info] come here updateWhiteList 
+2015/05/06 17:07:51 goroutine.go:13: [info] updateWhiteList 
+2015/05/06 17:07:56 goroutine.go:36: [info] it GuidCh's channel signal 
+2015/05/06 17:08:00 goroutine.go:36: [info] it GuidCh's channel signal 
+2015/05/06 17:08:04 goroutine.go:12: [info] come here updateWhiteList 
+2015/05/06 17:08:04 goroutine.go:13: [info] updateWhiteList 
+2015/05/06 17:08:09 goroutine.go:12: [info] come here updateWhiteList 
+2015/05/06 17:08:09 goroutine.go:13: [info] updateWhiteList 
+2015/05/06 17:08:14 goroutine.go:12: [info] come here updateWhiteList 
+2015/05/06 17:08:14 goroutine.go:13: [info] updateWhiteList 
